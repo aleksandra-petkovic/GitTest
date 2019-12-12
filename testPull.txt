@@ -1,2 +1,3 @@
 testiramo pull komandu
 dodajemo iz master grane
+dodajemo iz function grane
