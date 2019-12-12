@@ -1,2 +1,2 @@
-proba2
+proba1
 dodajemo sa function grane
