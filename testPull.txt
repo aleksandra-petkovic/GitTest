@@ -1,1 +1,2 @@
 testiramo pull komandu
+dodajemo iz master grane
